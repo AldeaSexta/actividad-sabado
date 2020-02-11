@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body,
+html {
+  width: 100vw;
+  max-width: 100vw;
+  height: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif, serif; }
+
+header {
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden; }
+  header #homeHeader {
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../media/img/banner-home.jpg);
+    background-color: #000; }
+
+.bg-main {
+  background: #e0c38b !important; }
+
+.c-main {
+  color: #e0c38b !important; }
+
+/*# sourceMappingURL=styles.css.map */

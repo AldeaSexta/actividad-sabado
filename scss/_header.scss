@@ -1,0 +1,14 @@
+@import '_variables.scss';
+
+header {
+  height: auto;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  #homeHeader {
+    background-image: 
+      linear-gradient(90deg, rgba($negro, .3), rgba($negro, .3)),
+      url(../media/img/banner-home.jpg);
+      background-color: #000;
+  }
+}
